@@ -5,6 +5,7 @@
 pandas/
 __pycache__/
 myenv/
-.venv*/
+.venv/
 *.exe
 *.vhdx
+.DS_Store
