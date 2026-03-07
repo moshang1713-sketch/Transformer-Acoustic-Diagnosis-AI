@@ -4,6 +4,7 @@
 机器/
 pandas/
 __pycache__/
+myenv/
+.venv*/
 *.exe
 *.vhdx
-.DS_Store
