@@ -1,0 +1,9 @@
+.vscode/
+01.pandas_pro/
+03.笔记/
+机器/
+pandas/
+__pycache__/
+*.exe
+*.vhdx
+.DS_Store
